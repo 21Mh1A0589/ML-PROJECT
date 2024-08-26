@@ -1,0 +1,1119 @@
+basic_skills,advanced_skills
+HTML,CSS
+CSS,JavaScript
+JavaScript,React.js
+Python,Django
+SQL,PostgreSQL
+C++,Machine Learning
+Excel,Excel VBA
+Git,Github
+Docker,Kubernetes
+Bash Scripting,Ansible
+Basic Networking,Network Security
+Photoshop,Illustrator
+AWS S3,AWS Lambda
+Data Visualization,Data Analytics
+Linux,Cloud Computing
+JSON,API Development
+REST API,GraphQL
+Firebase,Firestore
+PowerBI,DAX (Data Analysis Expressions)
+TensorFlow,Keras
+Pandas,NumPy
+HTML,CSS
+CSS,JavaScript
+JavaScript,Vue.js
+Python,Flask
+SQL,MySQL
+C#,ASP.NET Core
+Excel,Power Query
+Git,Bitbucket
+Docker,OpenShift
+Bash Scripting,Zsh
+Basic Networking,Advanced Routing
+Photoshop,InDesign
+AWS EC2,AWS Elastic Beanstalk
+Data Visualization,PowerBI
+Linux,Scripting in Linux
+JSON,YAML
+REST API,SOAP API
+Firebase,Google Cloud Functions
+PowerBI,Azure Analysis Services
+TensorFlow,PyTorch
+Pandas,scikit-learn
+WordPress,Headless CMS
+Ruby,Sinatra
+PHP,CodeIgniter
+Apache,TOMCAT
+R,Data Mining
+Java,Android Development
+MATLAB,Deep Learning Toolbox
+Selenium,Appium
+Tableau,Tableau Server
+Hadoop,Hive
+Vim,Neovim
+XML,SOAP
+Go,Serverless Architecture
+TypeScript,Svelte
+Bootstrap,Foundation CSS
+Web Security,Penetration Testing
+Unity,C# Scripting
+Markdown,Asciidoc
+Visual Studio Code,Atom
+Figma,Sketch
+Jupyter Notebook,RStudio
+HTML,CSS
+CSS,JavaScript
+JavaScript,React.js
+Python,Django
+SQL,PostgreSQL
+C++,Machine Learning
+Excel,Excel VBA
+Git,Github
+Docker,Kubernetes
+Bash Scripting,Ansible
+Basic Networking,Network Security
+Photoshop,Illustrator
+AWS S3,AWS Lambda
+Data Visualization,Data Analytics
+Linux,Cloud Computing
+JSON,API Development
+REST API,GraphQL
+Firebase,Firestore
+PowerBI,DAX (Data Analysis Expressions)
+TensorFlow,Keras
+Pandas,NumPy
+WordPress,Custom Theme Development
+Ruby,Ruby on Rails
+PHP,Laravel
+Apache,NGINX
+R,Shiny
+Java,Spring Boot
+MATLAB,Simulink
+Selenium,Cypress
+Tableau,Advanced Data Analytics
+Hadoop,Spark
+Vim,Emacs
+XML,XSLT
+Go,Microservices Architecture
+TypeScript,Angular
+Bootstrap,Tailwind CSS
+Web Security,OWASP Practices
+Unity,Unreal Engine
+Markdown,LaTeX
+Visual Studio Code,JetBrains IDEs
+Figma,Adobe XD
+Jupyter Notebook,Google Colab
+HTML,CSS
+CSS,JavaScript
+JavaScript,Vue.js
+Python,Flask
+SQL,MySQL
+C#,ASP.NET Core
+Excel,Power Query
+Git,Bitbucket
+Docker,OpenShift
+Bash Scripting,Zsh
+Basic Networking,Advanced Routing
+Photoshop,InDesign
+AWS EC2,AWS Elastic Beanstalk
+Data Visualization,PowerBI
+Linux,Scripting in Linux
+JSON,YAML
+REST API,SOAP API
+Firebase,Google Cloud Functions
+PowerBI,Azure Analysis Services
+TensorFlow,PyTorch
+Pandas,scikit-learn
+WordPress,Headless CMS
+Ruby,Sinatra
+PHP,CodeIgniter
+Apache,TOMCAT
+R,Data Mining
+Java,Android Development
+MATLAB,Deep Learning Toolbox
+Selenium,Appium
+Tableau,Tableau Server
+Hadoop,Hive
+Vim,Neovim
+XML,SOAP
+Go,Serverless Architecture
+TypeScript,Svelte
+Bootstrap,Foundation CSS
+Web Security,Penetration Testing
+Unity,C# Scripting
+Markdown,Asciidoc
+Visual Studio Code,Atom
+Figma,Sketch
+Jupyter Notebook,RStudio
+AWS S3,AWS Lambda
+Azure Virtual Machines,Azure Kubernetes Service
+Google Cloud Storage,Google BigQuery
+Pega Basic Development,Pega Case Management
+Salesforce Admin,Salesforce Lightning
+Data Analytics,Data Engineering
+Azure DevOps,Azure Pipelines
+Machine Learning,Deep Learning
+Artificial Intelligence,Reinforcement Learning
+Data Wrangling,ETL (Extract
+Business Intelligence,Data Science
+ETL Tools,Talend
+NoSQL Databases,MongoDB
+API Development,Microservices
+Kubernetes,Service Mesh (Istio)
+Salesforce Workflow,Salesforce Process Builder
+Pega Reports,Pega Robotics
+CI/CD Pipelines,Continuous Deployment
+AWS IAM,AWS Security Hub
+Azure Functions,Azure Logic Apps
+Azure Active Directory,Azure Identity and Access Management (IAM)
+Google Analytics,Google Tag Manager
+Docker Swarm,Kubernetes Orchestration
+Terraform,Infrastructure as Code (IaC)
+Jenkins,Travis CI
+Big Data,Hadoop Ecosystem
+Salesforce Data Modeling,Salesforce Apex
+Pega Data Pages,Pega Integration Services
+Azure Blob Storage,Azure Data Lake
+Amazon Redshift,Amazon Athena
+Microsoft Power Automate,Microsoft Power Apps
+API Testing,Postman
+Salesforce Visualforce,Salesforce Lightning Components
+Machine Learning Model Deployment,MLflow
+DevOps,GitOps
+Spark,Databricks
+Data Lakes,Data Warehouses
+CloudFormation,Terraform
+Machine Learning Algorithms,Model Optimization
+Data Governance,Data Privacy
+Cloud Security,Zero Trust Security
+Serverless Computing,FaaS (Function as a Service)
+Natural Language Processing (NLP),Text Mining
+Object-Oriented Programming (OOP),Design Patterns
+Pega Process Automation,Pega Decisioning
+Salesforce CRM,Salesforce Service Cloud
+Azure Data Factory,Azure Synapse Analytics
+Keras,TensorFlow
+Cloud Storage Solutions,Hybrid Cloud
+Data Mining,Data Visualization
+Predictive Analytics,Prescriptive Analytics
+Edge Computing,IoT (Internet of Things)
+Salesforce Integration,Salesforce API
+Pega DevOps,Pega Deployment Manager
+Cloud Monitoring,Cloud Cost Management
+Microsoft Azure Sentinel,SIEM (Security Information and Event Management)
+PowerBI Dashboards,PowerBI Embedded
+AWS Lambda,AWS Step Functions
+Azure App Services,Azure API Management
+Google Cloud Functions,Google Cloud Run
+Pega UI Design,Pega UX Best Practices
+Salesforce Reports,Salesforce Einstein Analytics
+Data Warehousing,Snowflake
+Azure Monitor,Azure Application Insights
+Machine Learning Model Training,Model Interpretability
+AI Chatbots,Conversational AI
+Data Engineering,Data Pipeline Automation
+Business Intelligence (BI),Advanced Analytics
+ETL (Extract, Transform
+MongoDB,Elasticsearch
+Microservices,Dockerized Microservices
+Kubernetes,OpenShift
+Salesforce Custom Objects,Salesforce Shield
+Pega Case Design,Pega BPM (Business Process Management)
+Continuous Integration (CI),Continuous Testing
+AWS CloudFormation,AWS CDK (Cloud Development Kit)
+Azure DevTest Labs,Azure Test Plans
+Azure AD B2C,Azure AD B2B
+Google BigQuery,Google Cloud Dataflow
+Terraform,Ansible
+Continuous Deployment (CD),Blue/Green Deployments
+Hadoop Ecosystem,Apache Spark
+Salesforce Process Automation,Salesforce Flows
+Pega DCO (Direct Capture of Objectives),Pega Agile Studio
+Azure Data Lake,Azure Databricks
+Amazon Athena,Amazon EMR (Elastic MapReduce)
+Power Automate,Microsoft Logic Apps
+API Gateway,Service Mesh
+Salesforce Visualforce Pages,Salesforce Aura Components
+ML Model Deployment,A/B Testing for ML Models
+GitOps,ArgoCD
+Databricks,Delta Lake
+Data Warehouses,Data Mesh
+Terraform Modules,Terragrunt
+Model Optimization,Hyperparameter Tuning
+Data Privacy,GDPR Compliance
+Zero Trust Security,Identity Governance and Administration (IGA)
+FaaS (Function as a Service),BaaS (Backend as a Service)
+Text Mining,Sentiment Analysis
+Design Patterns,Architectural Patterns
+Pega Integration,RESTful Services in Pega
+Salesforce Service Cloud,Salesforce Marketing Cloud
+Azure Synapse Analytics,Azure Machine Learning
+TensorFlow Lite,ONNX (Open Neural Network Exchange)
+Hybrid Cloud,Multi-Cloud Management
+Data Visualization,Augmented Analytics
+Prescriptive Analytics,Causal Inference
+IoT (Internet of Things),IoT Edge Computing
+Salesforce API,Salesforce Connect
+Pega Deployment Manager,Pega DevOps Studio
+Cloud Cost Management,FinOps (Cloud Financial Management)
+SIEM (Security Information and Event Management),SOAR (Security Orchestration
+PowerBI Embedded,PowerBI with Azure Data Lake
+Apache Kafka,Apache Pulsar
+Serverless Architecture,Event-Driven Architecture
+Data Pipelines,DataOps
+Salesforce App Builder,Salesforce Platform Developer
+Pega Robotics,Pega Workforce Intelligence
+Cloud Cost Optimization,Cloud Financial Planning
+Microsoft Azure Sentinel,Threat Intelligence
+PowerBI Service,PowerBI Report Server
+AWS Glue,AWS Data Pipeline
+Google Cloud Pub/Sub,Google Cloud IoT Core
+Azure Kubernetes Service,Azure Arc
+AWS ECS,AWS Fargate
+Salesforce Lightning App Builder,Salesforce Custom Lightning Components
+AI Model Explainability,SHAP (SHapley Additive exPlanations)
+Azure Cognitive Services,Azure Bot Services
+Data Anonymization,Data Masking
+Salesforce Pardot,Salesforce Marketing Cloud Journeys
+Pega Decisioning,Pega Customer Decision Hub
+Google Cloud Vision,Google Cloud AutoML
+Azure Machine Learning Studio,Azure Databricks ML
+AWS SageMaker,Amazon Personalize
+CI/CD Pipelines,Feature Toggles
+Google Analytics,Google Analytics 4 (GA4)
+Azure Automation,Azure Logic Apps
+Salesforce Knowledge,Salesforce Field Service
+Pega Mobile,Pega Mobile SDK
+Elastic Stack (ELK),Fluentd
+AI in Python,AutoML
+Azure Functions Proxies,Azure Event Grid
+Machine Learning in Finance,Algorithmic Trading
+Salesforce Commerce Cloud,Salesforce B2B Commerce
+Pega Case Lifecycle Management,Pega Process Fabric
+AWS EC2,AWS Elastic Load Balancer
+Azure Blob Storage,Azure File Storage
+Google Cloud Storage,Google Cloud Bigtable
+Pega Integration Services,Pega API Management
+Salesforce Lightning Web Components,Salesforce Apex Triggers
+Data Analytics,Advanced Data Modeling
+Azure Cognitive Services,Azure AI Builder
+Machine Learning Model Evaluation,Model Performance Metrics
+AI for Healthcare,Medical Image Analysis
+Data Visualization,Interactive Dashboards
+ETL Automation,Data Pipeline Orchestration
+Apache Kafka,Stream Processing
+NoSQL Databases,Cassandra
+Microservices Architecture,Service-Oriented Architecture (SOA)
+Kubernetes Helm Charts,Argo Workflows
+Salesforce Admin Advanced,Salesforce Einstein Discovery
+Pega Integration Framework,Pega API Connectors
+Continuous Integration (CI),Automated Build Systems
+AWS IAM Policies,AWS Security Groups
+Azure Key Vault,Azure Policy
+Google Cloud Identity,Google Cloud Security Command Center
+Terraform for Multi-Cloud,Terraform State Management
+CI/CD Automation,Jenkins X
+Salesforce AppExchange,Salesforce Lightning App Builder
+Pega Agile Workbench,Pega Scrum Framework
+Azure Data Factory,Data Pipeline Monitoring
+AWS Glue Data Catalog,AWS Athena
+PowerBI Custom Visuals,PowerBI Dataflows
+GitLab,GitHub Actions
+Data Lakes,Data Warehouse Integration
+Machine Learning Pipelines,AutoML
+Cloud-Native Applications,Serverless Frameworks
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Smart Investigate,Pega Customer Service
+Google Cloud AutoML,Google Cloud Vertex AI
+Azure Synapse Studio,Azure Data Explorer
+AWS CodePipeline,AWS CodeBuild
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Data Integration,Pega Integration Services
+Azure DevOps Repos,Azure DevOps Boards
+Serverless Databases,Amazon Aurora Serverless
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Knowledge Management,Pega Case Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure Blob Storage,Azure Queue Storage
+Machine Learning Operations (MLOps),Model Deployment Pipelines
+Salesforce Health Cloud,Salesforce Nonprofit Cloud
+Pega Robotics Automation,Pega RPA (Robotic Process Automation)
+Cloud Computing Architectures,Microservices Deployment
+Google Cloud Pub/Sub,Google Cloud Functions
+Azure AD Connect,Azure AD B2C
+AWS Security Hub,AWS Inspector
+Machine Learning Model Optimization,Hyperparameter Tuning
+Data Quality Management,Data Cleansing
+Pega CRM,Pega Marketing
+Salesforce Shield Encryption,Salesforce Platform Encryption
+Azure Data Lake Analytics,Azure Synapse Analytics
+AWS Step Functions,AWS EventBridge
+Google Cloud AI Platform,Google Cloud AutoML
+PowerBI Report Server,PowerBI Paginated Reports
+Salesforce Service Cloud Console,Salesforce Omni-Channel
+Pega Intelligent Automation,Pega Smart Automation
+Cloud-Native Databases,Cloud SQL
+Machine Learning Feature Engineering,Feature Selection Techniques
+Salesforce Einstein Discovery,Salesforce Data Insights
+Pega App Studio,Pega Application Development
+Google Cloud SQL,Google Cloud Memorystore
+Azure Arc,Azure Kubernetes Service (AKS)
+AWS Data Pipeline,Amazon Redshift Spectrum
+Pega Platform Security,Pega Enterprise Security
+Google BigQuery,Google Data Studio
+Data Analytics Platforms,Advanced Business Intelligence
+Machine Learning Interpretability,SHAP Values
+Salesforce Field Service Lightning,Salesforce Mobile Solutions
+Pega Customer Service,Pega Field Service
+Azure Machine Learning Pipelines,Azure Machine Learning Designer
+AWS CloudTrail,AWS Config
+AWS RDS,AWS Aurora
+Azure SQL Database,Azure SQL Managed Instance
+Google Cloud SQL,Google Cloud Memorystore
+Pega Application Builder,Pega Case Management
+Salesforce Custom Reports,Salesforce Einstein Analytics
+Data Analytics,Advanced Predictive Modeling
+Azure Logic Apps,Azure Event Grid
+Machine Learning Model Training,Model Deployment Strategies
+AI for Customer Service,Conversational AI
+Data Visualization,Real-Time Analytics
+ETL Tools,Data Pipeline Automation
+Apache Kafka,Event Streaming
+NoSQL Databases,Couchbase
+Microservices,Service Mesh Architecture
+Kubernetes Operators,Kubernetes Custom Resources
+Salesforce Lightning Experience,Salesforce Einstein Analytics
+Pega Robotic Automation,Pega RPA Solutions
+Continuous Integration (CI),Continuous Delivery (CD)
+AWS Secrets Manager,AWS Parameter Store
+Azure Front Door,Azure Traffic Manager
+Google Cloud Monitoring,Google Cloud Operations Suite
+Terraform,Infrastructure Automation
+Salesforce DX,Salesforce DevOps
+Pega Application Development,Pega Process Automation
+Azure Data Factory,Azure Data Explorer
+AWS Athena,AWS Redshift
+PowerBI Integration with Azure,PowerBI Dataflows
+GitHub,GitHub Actions
+Data Lakes,Real-Time Data Streaming
+Machine Learning Model Evaluation,Model Retraining
+Cloud-Native Development,Serverless Frameworks
+Salesforce Einstein Analytics,Salesforce Marketing Cloud
+Pega CRM,Pega Sales Automation
+Google Cloud AutoML,Google Cloud Vertex AI
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeDeploy,AWS CodeCommit
+Salesforce Community Cloud,Salesforce Lightning Components
+Pega Field Service,Pega Customer Service
+Google Cloud Pub/Sub,Google Cloud BigQuery
+Azure App Insights,Azure Log Analytics
+AWS Batch,AWS Fargate
+Pega Decisioning,Pega AI Decisioning
+Salesforce Mobile SDK,Salesforce Lightning Web Components
+Azure Data Lake,Azure Synapse Analytics
+AWS CloudFormation,Amazon CloudWatch
+Machine Learning Model Tuning,Feature Engineering
+Salesforce Service Console,Salesforce Analytics Cloud
+Pega Integration with External Systems,Pega API Management
+Google Cloud Dataflow,Google Cloud Storage
+Azure Cognitive Search,Azure AI
+AWS Lambda Layers,AWS SAM (Serverless Application Model)
+Salesforce CRM Customization,Salesforce Lightning Experience
+Pega Smart Analytics,Pega Intelligent Automation
+Google Cloud Data Studio,Google BigQuery ML
+Azure Kubernetes Service,Azure Container Instances
+AWS CodePipeline,AWS CodeBuild
+Salesforce Marketing Cloud Journey Builder,Salesforce Email Studio
+Pega Process Modeling,Pega Case Design
+Data Quality Framework,Data Governance Solutions
+Machine Learning Model Deployment,Real-Time Inference
+Cloud Security Best Practices,Zero Trust Security
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Enterprise Applications,Pega Platform
+Google Cloud Firestore,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS CloudWatch,AWS X-Ray
+Pega Platform Integration,Pega Decision Management
+Salesforce Custom Development,Salesforce Apex Triggers
+Machine Learning Pipelines,Automated Hyperparameter Tuning
+Data Engineering,DataOps
+Azure Synapse,Azure Data Lake
+AWS S3 Bucket Policies,AWS IAM Roles
+Salesforce Health Cloud,Salesforce Financial Services Cloud
+Pega Robotic Process Automation,Pega Workforce Intelligence
+Google Cloud Run,Google Cloud Functions
+Azure Logic Apps,Azure API Management
+AWS SageMaker Endpoints,AWS SageMaker Pipelines
+Salesforce Lightning Flow,Salesforce Process Builder
+Pega Application Integration,Pega Smart Investigate
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Data Factory,Azure Synapse Analytics
+AWS CloudWatch Logs,AWS CloudTrail
+Salesforce Integration Patterns,Salesforce API Integration
+Pega Application Deployment,Pega Deployment Manager
+Data Lakes,Data Warehousing Integration
+Machine Learning Model Drift Detection,Model Monitoring
+Cloud-Native Architectures,Microservices Patterns
+Salesforce Custom Lightning Components,Salesforce Lightning App Builder
+Pega Case Lifecycle Management,Pega Decisioning
+Google Cloud Vertex AI,Google Cloud BigQuery ML
+Azure Cognitive Services,Azure Text Analytics
+AWS RDS Proxy,AWS Aurora Serverless
+AWS S3 Storage,AWS Glacier
+Azure Virtual Network,Azure VPN Gateway
+Google Cloud Storage,Google Cloud Filestore
+Pega Integration Builder,Pega REST API
+Salesforce Lightning Design System,Salesforce LWC (Lightning Web Components)
+Data Analytics,Big Data Analytics
+Azure Data Factory,Azure Data Catalog
+Machine Learning,ML Ops
+AI for Retail,Recommendation Systems
+Data Visualization,Geospatial Analysis
+ETL Tools,Data Lake Integration
+Apache Flink,Stream Processing
+NoSQL Databases,DynamoDB
+Microservices Deployment,Service Mesh
+Kubernetes ConfigMaps,Kubernetes Secrets
+Salesforce Lightning Flow,Salesforce Apex
+Pega Smart Automation,Pega Robotics
+Continuous Integration,Continuous Delivery
+AWS CloudWatch,AWS CloudTrail
+Azure Cognitive Services,Azure AI Builder
+Google Cloud Pub/Sub,Google Cloud Functions
+Terraform,Infrastructure as Code (IaC)
+Salesforce CLI,Salesforce DX
+Pega Application Designer,Pega Application Development
+Azure SQL Data Warehouse,Azure Synapse Analytics
+AWS Redshift Spectrum,AWS EMR
+PowerBI Report Builder,PowerBI Paginated Reports
+GitHub Actions,GitLab CI/CD
+Data Lakes,Data Engineering
+Machine Learning Model Deployment,Model Versioning
+Cloud-Native Applications,Serverless Architectures
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega CRM,Pega Case Management
+Google Cloud Dataproc,Google Cloud Dataflow
+Azure Key Vault,Azure Managed HSM
+AWS IAM,AWS Secrets Manager
+Salesforce Custom Objects,Salesforce Advanced Reporting
+Pega Decision Management,Pega AI
+Google Cloud AutoML,Google Cloud BigQuery ML
+Azure Synapse Studio,Azure Data Explorer
+AWS CodeDeploy,AWS CodePipeline
+Salesforce Community Builder,Salesforce Experience Cloud
+Pega Integration Services,Pega API Management
+Google Cloud Storage,Google Cloud Bigtable
+Azure Logic Apps,Azure Event Grid
+AWS Batch,AWS Fargate
+Salesforce Service Cloud,Salesforce Field Service
+Pega Robotics Automation,Pega Smart Automation
+Google Cloud Monitoring,Google Cloud Logging
+Azure App Services,Azure Functions
+AWS CloudFormation,Amazon CloudWatch
+Salesforce Marketing Cloud Email Studio,Salesforce Social Studio
+Pega Platform,Pega Decisioning
+Google Cloud Pub/Sub,Google Cloud BigQuery
+Azure Data Lake Storage,Azure Synapse Analytics
+AWS Glue,Amazon Athena
+Salesforce Einstein Analytics,Salesforce Analytics Cloud
+Pega Case Design,Pega Agile Studio
+Machine Learning Pipelines,AutoML
+Cloud-Native Databases,Cloud SQL
+Salesforce CRM Integration,Salesforce API
+Pega Platform Security,Pega DevOps
+Google Cloud Firestore,Google Cloud Dataproc
+Azure Cognitive Services,Azure Form Recognizer
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Components,Salesforce App Builder
+Pega Integration Framework,Pega API Connectors
+Google BigQuery,Google Cloud Dataflow
+Azure Machine Learning Designer,Azure Synapse Analytics
+AWS S3 Transfer Acceleration,AWS Snowball
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Smart Analytics,Pega Platform
+Google Cloud AI Platform,Google Cloud AutoML
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS GuardDuty
+Salesforce Platform Encryption,Salesforce Shield
+Pega Case Management,Pega Process Automation
+Google Cloud Data Studio,Google Cloud BigQuery ML
+Azure Data Factory,Azure Data Catalog
+AWS CodeBuild,AWS CodePipeline
+Salesforce Lightning Web Components,Salesforce Lightning App Builder
+Pega Field Service,Pega Customer Service
+Google Cloud Pub/Sub,Google Cloud Functions
+Azure Cognitive Services,Azure Text Analytics
+AWS Batch,AWS Lambda
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Application Integration,Pega Smart Investigate
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Synapse Analytics,Azure Machine Learning
+AWS CloudFormation,AWS Elastic Beanstalk
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Platform Integration,Pega Decision Management
+Google Cloud Firestore,Google Cloud Pub/Sub
+Azure Cognitive Search,Azure AI
+AWS CodeDeploy,AWS CodeBuild
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Robotics,Pega Workforce Intelligence
+Google Cloud Vertex AI,Google Cloud BigQuery ML
+Azure Data Lake Analytics,Azure Synapse Analytics
+AWS IAM,AWS CloudTrail
+Salesforce Custom Development,Salesforce Lightning Experience
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Language Understanding
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Marketing Cloud Journey Builder,Salesforce Email Studio
+Pega Decisioning,Pega Smart Analytics
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Machine Learning Pipelines,Azure Data Factory
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Cloud Console,Salesforce Omni-Channel
+Pega Platform,Pega Application Development
+Google Cloud Pub/Sub,Google Cloud Functions
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Config
+Salesforce Platform Encryption,Salesforce Shield
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Memorystore
+Azure Synapse Analytics,Azure Data Lake
+AWS Glue,AWS Data Pipeline
+Salesforce Experience Cloud,Salesforce Lightning
+Pega Decision Management,Pega Case Management
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Cognitive Services,Azure Form Recognizer
+AWS Step Functions,AWS Lambda Layers
+AWS EC2,AWS Elastic Beanstalk
+Azure Virtual Machines,Azure Scale Sets
+Google Cloud Compute Engine,Google Cloud Kubernetes Engine
+Pega Case Management,Pega Intelligent Automation
+Salesforce Classic Reports,Salesforce Einstein Analytics
+Data Engineering,DataOps
+Azure SQL Database,Azure Synapse Analytics
+Machine Learning,Deep Learning
+AI for Marketing,Customer Segmentation
+Data Visualization,Predictive Analytics
+ETL Processes,Real-Time ETL
+Apache Kafka,Event Streaming
+NoSQL Databases,Graph Databases
+Microservices Architecture,Service Mesh
+Kubernetes Operators,Helm Charts
+Salesforce Apex,Salesforce Lightning Web Components
+Pega Robotic Automation,Pega RPA
+Continuous Integration (CI),Continuous Delivery (CD)
+AWS IAM,AWS Cognito
+Azure Key Vault,Azure Secrets Management
+Google Cloud Identity,Google Cloud Security
+Terraform,Infrastructure Automation
+Salesforce CLI,Salesforce DevOps
+Pega Application Designer,Pega Integration Services
+Azure Data Lake,Azure Data Factory
+AWS Redshift,AWS Glue
+PowerBI,PowerBI Embedded
+GitHub,GitLab CI/CD
+Data Lakes,Data Warehouse Integration
+Machine Learning Model Training,Model Validation
+Cloud-Native Development,Serverless Frameworks
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Application Development,Pega Case Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure Synapse Studio,Azure Machine Learning
+AWS CodeDeploy,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Decisioning,Pega AI
+Google Cloud Pub/Sub,Google Cloud Functions
+Azure Key Vault,Azure Managed HSM
+AWS CloudFormation,AWS CDK
+Salesforce Custom Objects,Salesforce Platform Encryption
+Pega Case Management,Pega Agile Studio
+Google Cloud AutoML,Google Cloud BigQuery ML
+Azure Cognitive Services,Azure AI Builder
+AWS S3 Versioning,AWS S3 Transfer Acceleration
+Salesforce Lightning Experience,Salesforce Custom Lightning Components
+Pega Smart Analytics,Pega Platform
+Google Cloud Vertex AI,Google Cloud AI Platform
+Azure Data Factory,Azure Data Catalog
+AWS Batch,AWS Fargate
+Salesforce Service Cloud,Salesforce Field Service
+Pega Robotics,Pega Workforce Intelligence
+Google Cloud Firestore,Google Cloud Bigtable
+Azure Data Lake Storage,Azure Synapse Analytics
+AWS IAM Policies,AWS Security Groups
+Salesforce Marketing Cloud Journey Builder,Salesforce Social Studio
+Pega Platform Integration,Pega Decision Management
+Google Cloud Pub/Sub,Google Cloud Storage
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Inspector
+Salesforce Platform Encryption,Salesforce Shield
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Firestore
+Azure Cognitive Search,Azure Text Analytics
+AWS RDS,AWS Aurora Serverless
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Decision Management,Pega Case Design
+Google Cloud Data Studio,Google BigQuery ML
+Azure Machine Learning Pipelines,Azure Synapse Analytics
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Console,Salesforce Omni-Channel
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Components,Salesforce App Builder
+Pega Integration Framework,Pega API Management
+Google Cloud AutoML,Google Cloud BigQuery
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeBuild,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Smart Automation,Pega Case Management
+Google Cloud Vertex AI,Google Cloud AI Platform
+Azure Data Lake,Azure Synapse Analytics
+AWS Glue,Amazon Athena
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Platform Security,Pega DevOps
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Machine Learning,Azure Cognitive Services
+AWS CloudFormation,AWS Elastic Beanstalk
+Salesforce Lightning Web Components,Salesforce Lightning Experience
+Pega Application Development,Pega Case Management
+Google Cloud BigQuery,Google Cloud AutoML
+Azure Data Lake Storage,Azure Synapse Analytics
+AWS CodeDeploy,AWS CodeBuild
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Case Management,Pega Smart Automation
+Google Cloud Firestore,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Text Analytics
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Config
+Salesforce Shield,Salesforce Platform Encryption
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Memorystore
+Azure Cognitive Search,Azure AI
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Decision Management,Pega Case Management
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Machine Learning Designer,Azure Synapse Analytics
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Console,Salesforce Omni-Channel
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS S3 Transfer Acceleration,AWS Snowball
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Platform Integration,Pega Decision Management
+Google Cloud Vertex AI,Google Cloud BigQuery ML
+Azure Data Factory,Azure Data Catalog
+AWS Batch,AWS Fargate
+Salesforce Field Service,Salesforce Service Cloud
+Pega Smart Automation,Pega Case Management
+Google Cloud Storage,Google Cloud Bigtable
+Azure Key Vault,Azure Secrets Management
+AWS IAM,AWS Cognito
+Salesforce Custom Development,Salesforce Lightning Experience
+Pega Application Designer,Pega Integration Services
+Google Cloud Firestore,Google Cloud Dataflow
+Azure Cognitive Services,Azure Text Analytics
+AWS Lambda,AWS Step Functions
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Robotics,Pega Workforce Intelligence
+Google Cloud Vertex AI,Google Cloud BigQuery ML
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeDeploy,AWS CodePipeline
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Decision Management,Pega Case Management
+Google Cloud Pub/Sub,Google Cloud AutoML
+Azure Data Lake,Azure Synapse Analytics
+AWS CloudFormation,AWS Elastic Beanstalk
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Machine Learning Designer,Azure Synapse Analytics
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Console,Salesforce Omni-Channel
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Decision Management,Pega Case Management
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Cognitive Search,Azure Text Analytics
+AWS Glue,Amazon Athena
+AWS EC2,AWS ECS (Elastic Container Service)
+Azure Virtual Machines,Azure Kubernetes Service (AKS)
+Google Cloud Compute Engine,Google Cloud Run
+Pega Case Management,Pega Intelligent Decisioning
+Salesforce Classic Reports,Salesforce Einstein Analytics
+Data Engineering,DataOps
+Azure SQL Database,Azure Cosmos DB
+Machine Learning,Deep Learning
+AI for Marketing,Customer Behavior Analytics
+Data Visualization,Advanced Data Analytics
+ETL Processes,Real-Time Data Pipelines
+Apache Kafka,Apache Pulsar
+NoSQL Databases,Graph Databases
+Microservices Architecture,Service Mesh
+Kubernetes ConfigMaps,Kubernetes Operators
+Salesforce Apex,Salesforce Lightning Web Components
+Pega Robotic Automation,Pega RPA
+Continuous Integration (CI),Continuous Delivery (CD)
+AWS IAM,AWS Cognito
+Azure Key Vault,Azure Managed HSM
+Google Cloud Identity,Google Cloud Security
+Terraform,Terraform Cloud
+Salesforce CLI,Salesforce DevOps
+Pega Application Designer,Pega Integration Services
+Azure Data Lake,Azure Data Catalog
+AWS Redshift,AWS Redshift Spectrum
+PowerBI,PowerBI Report Server
+GitHub Actions,GitLab CI/CD Pipelines
+Data Lakes,Data Warehousing Solutions
+Machine Learning Model Training,Model Monitoring
+Cloud-Native Development,Serverless Frameworks
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Application Development,Pega Case Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure Synapse Studio,Azure Machine Learning
+AWS CodeDeploy,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Decisioning,Pega AI
+Google Cloud Pub/Sub,Google Cloud Functions
+Azure Key Vault,Azure Managed HSM
+AWS CloudFormation,AWS CDK (Cloud Development Kit)
+Salesforce Custom Objects,Salesforce Platform Encryption
+Pega Case Management,Pega Agile Studio
+Google Cloud AutoML,Google Cloud BigQuery ML
+Azure Cognitive Services,Azure AI Builder
+AWS S3 Versioning,AWS S3 Transfer Acceleration
+Salesforce Lightning Experience,Salesforce Custom Lightning Components
+Pega Smart Analytics,Pega Platform
+Google Cloud Vertex AI,Google Cloud AI Platform
+Azure Data Factory,Azure Data Catalog
+AWS Batch,AWS Fargate
+Salesforce Service Cloud,Salesforce Field Service
+Pega Robotics,Pega Workforce Intelligence
+Google Cloud Firestore,Google Cloud Bigtable
+Azure Data Lake Storage,Azure Synapse Analytics
+AWS IAM Policies,AWS Security Groups
+Salesforce Marketing Cloud Journey Builder,Salesforce Social Studio
+Pega Platform Integration,Pega Decision Management
+Google Cloud Pub/Sub,Google Cloud Storage
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Inspector
+Salesforce Platform Encryption,Salesforce Shield
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Memorystore
+Azure Cognitive Search,Azure AI
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Decision Management,Pega Case Design
+Google Cloud Data Studio,Google BigQuery ML
+Azure Machine Learning Pipelines,Azure Synapse Analytics
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Console,Salesforce Omni-Channel
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Components,Salesforce App Builder
+Pega Integration Framework,Pega API Management
+Google Cloud AutoML,Google Cloud BigQuery
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeBuild,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Smart Automation,Pega Case Management
+Google Cloud Vertex AI,Google Cloud AI Platform
+Azure Data Lake,Azure Synapse Analytics
+AWS Glue,Amazon Athena
+Salesforce Field Service,Salesforce Service Cloud
+Pega Application Development,Pega Case Management
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Machine Learning Designer,Azure Synapse Analytics
+AWS CloudFormation,AWS Elastic Beanstalk
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeDeploy,AWS CodeBuild
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Decision Management,Pega Case Management
+Google Cloud Firestore,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Text Analytics
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Config
+Salesforce Shield,Salesforce Platform Encryption
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Memorystore
+Azure Cognitive Search,Azure AI
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Decision Management,Pega Case Management
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Cognitive Services,Azure Form Recognizer
+AWS Glue,Amazon Athena
+Kubernetes Helm,Helm Charts
+Docker,Docker Swarm
+GitLab CI/CD,Github Actions
+Jenkins,GitHub Actions
+Apache Airflow,Apache NiFi
+Terraform,Ansible
+Puppet,Chef
+Ansible Tower,Red Hat Ansible Automation Platform
+Kubernetes Operators,Kubernetes Custom Resources
+Istio,Linkerd
+Prometheus,Grafana
+ElasticSearch,ElasticSearch Service
+Splunk,Sumo Logic
+Datadog,New Relic
+Sentry,Rollbar
+Jira,Confluence
+Selenium,Cypress
+Postman,SoapUI
+GraphQL,REST API
+OpenAPI,Swagger
+Apache Kafka Streams,Apache Flink
+Redis,Memcached
+RabbitMQ,Amazon SQS
+Apache Pulsar,Google Cloud Pub/Sub
+AWS Aurora,AWS DynamoDB
+Azure SQL Database,Azure Cosmos DB
+Google Cloud BigQuery,Google Cloud Spanner
+TensorFlow,PyTorch
+Keras,MXNet
+Scikit-learn,StatsModels
+NLP,Transformer Models
+GPT-3,GPT-4
+BERT,RoBERTa
+OpenAI Codex,GitHub Copilot
+Azure Cognitive Services Text Analytics,Azure Text Analytics
+Google Cloud AI Platform,Google Cloud AutoML
+AWS SageMaker,Amazon Lex
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Decisioning,Pega Application Design
+Google Cloud Data Studio,Google Cloud Dataflow
+Azure Synapse Analytics,Azure Data Explorer
+AWS Glue DataBrew,AWS Data Pipeline
+Jupyter Notebooks,Google Colab
+Apache Spark,Databricks
+Kubernetes Helm,Helm Charts
+AWS Fargate,AWS Lambda
+Azure DevOps,GitHub Actions
+Google Cloud Build,Google Cloud Source Repositories
+Terraform,CloudFormation
+Ansible,Chef
+Puppet,SaltStack
+Docker Compose,Docker Swarm
+Kubernetes Pods,Kubernetes Deployments
+AWS CodeCommit,AWS CodePipeline
+Google Cloud Functions,Google Cloud Run
+Azure Functions,Azure Logic Apps
+AWS CloudTrail,AWS CloudWatch
+Splunk,Sumo Logic
+ElasticSearch,Elasticsearch Service
+Prometheus,Grafana
+Datadog,New Relic
+Sentry,Raven
+Jira,Asana
+Selenium,TestComplete
+Postman,Insomnia
+GraphQL,RESTful APIs
+OpenAPI,Swagger
+AWS Step Functions,AWS Lambda
+AWS S3,AWS Glacier
+Azure Blob Storage,Azure Archive Storage
+Google Cloud Storage,Google Cloud Filestore
+Pega Basic Automation,Pega AI-Powered Automation
+Salesforce Classic UI,Salesforce Lightning Experience
+Data Warehousing,Data Mesh
+Azure SQL Database,Azure SQL Managed Instance
+Machine Learning Algorithms,AutoML
+AI for Healthcare,Medical Imaging AI
+Business Intelligence Tools,Advanced BI Solutions
+ETL Tools,ELT Processes
+Apache Kafka,Apache Kafka Streams
+NoSQL Databases,Multi-Model Databases
+Microservices,Service-Oriented Architecture (SOA)
+Kubernetes,Docker Swarm
+Salesforce Lightning Design System,Salesforce Lightning Web Components
+Pega Robotic Process Automation (RPA),Pega Intelligent RPA
+Continuous Integration (CI),Continuous Delivery (CD)
+AWS Lambda,AWS Step Functions
+Azure Functions,Azure Durable Functions
+Google Cloud Functions,Google Cloud Run
+Terraform,Terraform Enterprise
+Salesforce DX,Salesforce DevOps
+Pega Case Management,Pega Smart Analytics
+Azure Synapse Analytics,Azure Data Explorer
+AWS Redshift Spectrum,AWS Lake Formation
+PowerBI,PowerBI Service
+GitHub Actions,GitLab CI/CD
+Data Engineering,DataOps Automation
+Machine Learning Model Training,Model Serving
+Cloud-Native Applications,Serverless Architectures
+Salesforce Marketing Cloud,Salesforce Data Cloud
+Pega Integration Services,Pega Application Development
+Google Cloud Dataproc,Google Cloud BigQuery
+Azure Data Factory,Azure Synapse Studio
+AWS CodeDeploy,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Customer 360
+Pega Decisioning,Pega Customer Service
+Google Cloud Pub/Sub,Google Cloud Dataflow
+Azure Key Vault,Azure Active Directory
+AWS CloudFormation,AWS CDK (Cloud Development Kit)
+Salesforce Shield,Salesforce Platform Encryption
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud BigQuery,Google Cloud AutoML
+Azure Cognitive Services,Azure AI
+AWS Glue,Amazon Redshift Spectrum
+Salesforce Lightning Experience,Salesforce Custom Components
+Pega Platform Integration,Pega AI
+Google Cloud Vertex AI,Google Cloud ML Engine
+Azure Data Lake Storage,Azure Data Catalog
+AWS Batch,AWS Fargate
+Salesforce Service Cloud,Salesforce Field Service
+Pega Robotics,Pega Workforce Intelligence
+Google Cloud Firestore,Google Cloud SQL
+Azure Cognitive Search,Azure AI Builder
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Einstein Analytics,Salesforce CRM Analytics
+Pega Decision Management,Pega Case Design
+Google Cloud Data Studio,Google BigQuery ML
+Azure Machine Learning Pipelines,Azure Synapse Analytics
+AWS CloudWatch,AWS X-Ray
+Salesforce Service Console,Salesforce Omni-Channel
+Pega Application Design,Pega Case Lifecycle Management
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Form Recognizer
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Components,Salesforce App Builder
+Pega Integration Framework,Pega API Management
+Google Cloud AutoML,Google Cloud BigQuery
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeBuild,AWS CodePipeline
+Salesforce Community Cloud,Salesforce Experience Cloud
+Pega Smart Automation,Pega Case Management
+Google Cloud Vertex AI,Google Cloud AI Platform
+Azure Data Lake,Azure Synapse Analytics
+AWS Glue,Amazon Athena
+Salesforce Field Service,Salesforce Service Cloud
+Pega Application Development,Pega Case Management
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Machine Learning Designer,Azure Synapse Analytics
+AWS CloudFormation,AWS Elastic Beanstalk
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud BigQuery,Google Cloud Data Studio
+Azure Synapse Analytics,Azure Machine Learning
+AWS CodeDeploy,AWS CodeBuild
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Decision Management,Pega Case Management
+Google Cloud Firestore,Google Cloud Pub/Sub
+Azure Cognitive Services,Azure Text Analytics
+AWS Lambda,AWS Step Functions
+Salesforce Lightning Web Components,Salesforce App Builder
+Pega Platform Integration,Pega Decision Management
+Google Cloud Dataflow,Google Cloud Dataproc
+Azure AD Connect,Azure AD B2C
+AWS CloudTrail,AWS Config
+Salesforce Shield,Salesforce Platform Encryption
+Pega CRM,Pega Sales Automation
+Google Cloud SQL,Google Cloud Memorystore
+Azure Cognitive Search,Azure AI
+AWS RDS Proxy,AWS Aurora Serverless
+Salesforce Marketing Cloud,Salesforce Journey Builder
+Pega Decision Management,Pega Case Management
+Google Cloud AutoML,Google Cloud AI Platform
+Azure Cognitive Services,Azure Form Recognizer
+AWS Glue,Amazon Athena
+Kubernetes Helm,Helm Charts
+Docker,Docker Swarm
+GitLab CI/CD,Github Actions
+Jenkins,GitHub Actions
+Apache Airflow,Apache NiFi
+Terraform,Ansible
+Puppet,Chef
+Ansible Tower,Red Hat Ansible Automation Platform
+Kubernetes Operators,Kubernetes Custom Resources
+Istio,Linkerd
+Prometheus,Grafana
+ElasticSearch,ElasticSearch Service
+Splunk,Sumo Logic
+Datadog,New Relic
+Sentry,Rollbar
+Jira,Confluence
+Selenium,Cypress
+Postman,SoapUI
+GraphQL,REST API
+OpenAPI,Swagger
+Apache Kafka Streams,Apache Flink
+Redis,Memcached
+RabbitMQ,Amazon SQS
+Apache Pulsar,Google Cloud Pub/Sub
+AWS Aurora,AWS DynamoDB
+Azure SQL Database,Azure Cosmos DB
+Google Cloud BigQuery,Google Cloud Spanner
+TensorFlow,PyTorch
+Keras,MXNet
+Scikit-learn,StatsModels
+NLP,Transformer Models
+GPT-3,GPT-4
+BERT,RoBERTa
+OpenAI Codex,GitHub Copilot
+Azure Cognitive Services Text Analytics,Azure Text Analytics
+Google Cloud AI Platform,Google Cloud AutoML
+AWS SageMaker,Amazon Lex
+Salesforce Einstein Vision,Salesforce Einstein Language
+Pega Decisioning,Pega Application Design
+Google Cloud Data Studio,Google Cloud Dataflow
+Azure Synapse Analytics,Azure Data Explorer
+AWS Glue DataBrew,AWS Data Pipeline
+Jupyter Notebooks,Google Colab
+Apache Spark,Databricks
+Kubernetes Helm,Helm Charts
+AWS Fargate,AWS Lambda
+Azure DevOps,GitHub Actions
+Google Cloud Build,Google Cloud Source Repositories
+Terraform,CloudFormation
+Ansible,Chef
+Puppet,SaltStack
+Docker Compose,Docker Swarm
+Kubernetes Pods,Kubernetes Deployments
+AWS CodeCommit,AWS CodePipeline
+Google Cloud Functions,Google Cloud Run
+Azure Functions,Azure Logic Apps
+AWS CloudTrail,AWS CloudWatch
+Splunk,Sumo Logic
+ElasticSearch,Elasticsearch Service
+Prometheus,Grafana
+Datadog,New Relic
+Sentry,Raven
+Jira,Asana
+Selenium,TestComplete
+Postman,Insomnia
+GraphQL,RESTful APIs
+OpenAPI,Swagger
+AWS Step Functions,AWS Lambda
+AWS Batch,AWS Fargate
+Azure Data Factory,Azure Synapse Analytics
+Google Cloud Dataflow,Google Cloud Pub/Sub
+Azure Cognitive Search,Azure Text Analytics
+AWS Lambda,AWS EventBridge
+Google Cloud Functions,Google Cloud Run
+Azure Functions,Azure Durable Functions
+AWS Amplify,AWS AppSync
+Azure Static Web Apps,Azure Front Door
+Google Cloud App Engine,Google Cloud Run
+AWS Elastic Beanstalk,AWS OpsWorks
+Azure App Services,Azure Container Instances
+Google Cloud Run,Google Kubernetes Engine
